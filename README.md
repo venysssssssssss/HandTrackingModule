@@ -1,5 +1,4 @@
 # HandTrackingModule
-Claro! Aqui está uma documentação básica no estilo Markdown para o arquivo `main.py` que você forneceu:
 
 ```markdown
 # Detecção de Mãos usando OpenCV e MediaPipe
