@@ -84,7 +84,6 @@ Este script foi criado com base no tutorial de detecção de mãos usando MediaP
 
 # Hand Tracking Module 
 
-Certamente! Abaixo está uma explicação das funções e suas aplicações no módulo de rastreamento de mãos usando a biblioteca OpenCV e MediaPipe, formatado na sintaxe do GitHub:
 
 ```python
 import cv2
