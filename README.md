@@ -14,7 +14,7 @@ Certifique-se de ter as seguintes bibliotecas instaladas:
 
 Você pode instalar essas bibliotecas usando o seguinte comando:
 
-```bash
+bash
 pip install opencv-python 
 pip install mediapipe
 ```
