@@ -83,7 +83,7 @@ Este script foi criado com base no tutorial de detecção de mãos usando MediaP
 [Link para o tutorial](https://google.github.io/mediapipe/solutions/hands)
 ```
 
-Certifique-se de substituir os detalhes no documento, como os pré-requisitos e os créditos, de acordo com suas necessidades.
+Certifique-se de substituir os detalhes no documento, como os pré-requisitos e os créditos, de acordo com suas necessidades.´´´
 
 #Hand Tracking Module
 
