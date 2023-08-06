@@ -1,4 +1,4 @@
-# Main
+# Main.py
 
 ```markdown
 # Detecção de Mãos usando OpenCV e MediaPipe
@@ -82,8 +82,7 @@ Este script foi criado com base no tutorial de detecção de mãos usando MediaP
 
 [Link para o tutorial](https://google.github.io/mediapipe/solutions/hands)
 
-# Hand Tracking Module 
-
+# HandTrackingModule.py 
 
 ```python
 import cv2
