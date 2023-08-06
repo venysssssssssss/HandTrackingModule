@@ -81,11 +81,8 @@ Certifique-se de encerrar a captura de vídeo e liberar os recursos após termin
 Este script foi criado com base no tutorial de detecção de mãos usando MediaPipe e OpenCV.
 
 [Link para o tutorial](https://google.github.io/mediapipe/solutions/hands)
-```
 
-Certifique-se de substituir os detalhes no documento, como os pré-requisitos e os créditos, de acordo com suas necessidades.´´´
-
-#Hand Tracking Module
+# Hand Tracking Module 
 
 Certamente! Abaixo está uma explicação das funções e suas aplicações no módulo de rastreamento de mãos usando a biblioteca OpenCV e MediaPipe, formatado na sintaxe do GitHub:
 
@@ -177,3 +174,8 @@ if __name__ == "__main__":
 ```
 
 Este código define uma classe `handTracker` que encapsula as funcionalidades de detecção e rastreamento de mãos. Ele oferece métodos para encontrar mãos em uma imagem e localizar as posições dos landmarks (pontos-chave) das mãos detectadas. O método `main()` cria uma instância dessa classe e realiza a detecção de mãos em um fluxo de vídeo da câmera. Certifique-se de manter a indentação correta ao copiar o código para um arquivo `.py`.
+
+
+
+
+
