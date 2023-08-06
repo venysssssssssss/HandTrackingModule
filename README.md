@@ -65,15 +65,15 @@ while True:
 
 2. O loop principal captura quadros de vídeo da webcam.
 
-3. Os quadros são convertidos para o formato RGB e processados ​​para detectar mãos usando o MediaPipe.
+3. Os quadros são convertidos de BGR para o formato RGB e processados ​​para detectar mãos usando o MediaPipe.
 
-4. Se mãos forem detectadas, o código itera sobre os pontos de referência da mão e desenha um círculo no ponto correspondente ao dedo médio.
+4. Se mãos forem detectadas, o código itera sobre os pontos de referência da mão e desenha um círculo no ponto correspondente ao dedo mindinho.
 
 5. Os pontos de referência da mão e as conexões entre eles são desenhados no quadro.
 
 6. O quadro resultante é exibido usando a OpenCV.
 
-7. O loop continua até que o usuário pressione a tecla "Esc" ou feche a janela de saída.
+7. O loop continua até o fim da utilização da IDE.
 
 
 ## Créditos
