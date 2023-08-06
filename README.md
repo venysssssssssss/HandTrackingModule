@@ -74,7 +74,6 @@ while True:
 
 7. O loop continua até que o usuário pressione a tecla "Esc" ou feche a janela de saída.
 
-Certifique-se de encerrar a captura de vídeo e liberar os recursos após terminar a execução do código.
 
 ## Créditos
 
