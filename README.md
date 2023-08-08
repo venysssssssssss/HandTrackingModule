@@ -1,5 +1,5 @@
 # Main.py
-
+.
 ```markdown
 # Detecção de Mãos usando OpenCV e MediaPipe
 
